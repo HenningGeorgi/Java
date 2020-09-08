@@ -1,2 +1,2 @@
 # Java
-- Calculator for simple math operations
+- Simple algorithms for searching and sorting in a data structure
