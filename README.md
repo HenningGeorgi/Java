@@ -1,2 +1,2 @@
 # Java
-- Calculator for simple mathematic operations
+- Calculator for simple math operations
