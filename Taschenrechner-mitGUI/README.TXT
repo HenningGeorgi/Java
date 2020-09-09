@@ -1,12 +1,9 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is my Version of a calculator with a simple GUI for the user
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Calculator
+PURPOSE OF PROJECT: 
+VERSION or DATE: 09.09.2020
+HOW TO START THIS PROJECT: Open all classes in your ide and run main method in main class.
+AUTHORS: Henning Georgi
