@@ -1,14 +1,9 @@
 ------------------------------------------------------------------------
-Dies ist die README-Datei des Projekts. Hier sollten Sie Ihr Projekt
-beschreiben.
-Erzählen Sie dem Leser (jemand, der nichts über dieses Projekt weiss),
-alles, was er/sie wissen muss. Üblicherweise sollte der Kommentar 
-zumindest die folgenden Angaben umfassen:
+This is the datastructure of a binary tree with sorting and searching methods.
 ------------------------------------------------------------------------
 
-PROJEKTBEZEICHNUNG:
-PROJEKTZWECK:
-VERSION oder DATUM:
-WIE IST DAS PROJEKT ZU STARTEN:
-AUTOR(EN):
-BENUTZERHINWEISE:
+PROJEKTBEZEICHNUNG: binary tree
+PROJEKTZWECK: order for existing data and easier access to it 
+VERSION oder DATUM: 09.09.2020
+WIE IST DAS PROJEKT ZU STARTEN: Open all classes in your IDE. Then type all methods you want to have launched in the main method. For example "baum1.suchen("example")".
+AUTOR: Henning Georgi
