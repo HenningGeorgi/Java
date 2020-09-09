@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=nam\ tel
+comment0.target=Telefon(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ ord()
+comment2.params=
+comment2.target=void\ Ausgabe()
+numComments=3

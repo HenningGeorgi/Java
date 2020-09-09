@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=D
+comment0.target=Knoten\ hinzu(Daten)
+comment1.params=
+comment1.target=int\ AnzahlAbHier()
+comment10.params=
+comment10.target=Eintrag\ linksrotieren()
+comment11.params=
+comment11.target=Eintrag\ rechtsrotieren()
+comment2.params=
+comment2.target=void\ AusgabeAbHier()
+comment3.params=
+comment3.target=Daten\ DatenGeben()
+comment4.params=n
+comment4.target=void\ Struktur(int)
+comment5.params=S
+comment5.target=Daten\ suchen(java.lang.String)
+comment6.params=S
+comment6.target=Eintrag\ loeschen(java.lang.String)
+comment7.params=
+comment7.target=Daten\ groessterEintrag()
+comment8.params=
+comment8.target=int\ AnzahlEbenen()
+comment9.params=
+comment9.target=int\ Balance()
+numComments=12

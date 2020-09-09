@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=D
+comment0.target=Knoten\ hinzu(Daten)
+comment1.params=
+comment1.target=Daten\ DatenGeben()
+comment2.params=
+comment2.target=int\ AnzahlAbHier()
+comment3.params=
+comment3.target=void\ AusgabeAbHier()
+numComments=4
