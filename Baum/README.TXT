@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------
-This is the datastructure of a binary tree with sorting and searching methods.
+This is the datastructure of a binary tree with sorting and searching methods
 ------------------------------------------------------------------------
 
 PROJEKTBEZEICHNUNG: binary tree
